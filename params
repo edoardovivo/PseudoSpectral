@@ -1,0 +1,11 @@
+nu  10
+lambda   1.0
+D	1
+dx     1.0
+dt     1e-2
+N      512
+tmax   10000
+tmin   0.1
+nstat  50
+nvolte 500
+ntimes_psd 5
